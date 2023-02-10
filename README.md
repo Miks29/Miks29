@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-These are all the projects I made personally and with others.
+These are all the projects I made and learned.
 
 <!--
 **Miks29/Miks29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
